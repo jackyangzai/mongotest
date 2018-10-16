@@ -1,6 +1,6 @@
 # mongotest
 springmvc+maven+mongodb
-这个demo项目演示了springMVC中集成MongoDB的基本操作，以及利用MongoDB做文件的存取操作
+这个demo项目演示了springMVC中集成MongoDB的基本操作，以及利用MongoDB做文件的存取操作，其中主要借鉴网络资源学习，感谢各位大神无私分享
 
 配置步骤如下：
 一、搭建springmvc项目框架（常用操作，故此省略）
